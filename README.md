@@ -27,6 +27,5 @@ Replicating real-world website UIs.
 
 Keeping designs minimal yet functional.
 
-🔗 Live Demo
-👉 View the Project (Add GitHub Pages link here)
+🌐Live Here : (https://mani-mc.github.io/Udemy-clone/)
 
